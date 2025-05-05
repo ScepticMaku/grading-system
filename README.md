@@ -1,3 +1,76 @@
+# Pre-final Task #1
+## project features lists:
+ 
+### Authentication  
+-  Register page for 
+user & admin 
+- Log in page for user 
+& admin 
+- Log out 
+Roles Page  
+- Get role 
+- Add role 
+- Edit role 
+- Delete role 
+### ADMIN PAGE 
+#### User Status Page  
+- get status 
+- Add status  
+- Edit status 
+- delete status 
+#### Profile Page  
+- Get profile info 
+- Edit profile info 
+- Change password  
+#### Student Page  
+- Get student info 
+- Add student info 
+- Edit student info 
+#### Enrollment Page  
+- Get enrollment info 
+- Add enrollment  
+- Edit enrollment  
+- Delete enrollment  
+#### Course Page  
+- Get Course info 
+- Add course  
+- Edit course  
+- Delete course 
+#### Grades Manipulation Page  
+- Get grades info 
+- Add grades 
+- Edit grades 
+- Delete grades 
+### USERS PAGE 
+#### User Status Page  
+- get status 
+- Add status  
+- Edit status 
+- delete status 
+#### Profile Page  
+- Get profile info 
+- Edit profile info 
+- Change password  
+#### Student Page  
+- Get student info 
+- Add student info
+- Edit student info 
+#### Grades Manipulation Page  
+- Get grades info 
+- Add grades 
+- Edit grades 
+- Delete grades 
+#### Reports List Page  
+- List of students via 
+course 
+- List of students via 
+student info 
+#### Ranking Page  
+- Ranking of student 
+via department  
+- Ranking of all 
+students
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
